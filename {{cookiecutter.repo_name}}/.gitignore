@@ -5,6 +5,7 @@
 wandb/*
 
 # Python 
+venv/*
 
 */__pycache__/*
 
